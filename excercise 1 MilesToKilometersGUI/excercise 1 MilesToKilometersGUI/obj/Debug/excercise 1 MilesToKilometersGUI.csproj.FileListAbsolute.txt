@@ -1,0 +1,10 @@
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\bin\Debug\excercise 1 MilesToKilometersGUI.exe.config
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\bin\Debug\excercise 1 MilesToKilometersGUI.exe
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\bin\Debug\excercise 1 MilesToKilometersGUI.pdb
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise 1 MilesToKilometersGUI.csprojAssemblyReference.cache
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise_1_MilesToKilometersGUI.Form1.resources
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise_1_MilesToKilometersGUI.Properties.Resources.resources
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise 1 MilesToKilometersGUI.csproj.GenerateResource.cache
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise 1 MilesToKilometersGUI.csproj.CoreCompileInputs.cache
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise 1 MilesToKilometersGUI.exe
+C:\Users\jz159156\Desktop\C#\excercise 1 MilesToKilometersGUI\excercise 1 MilesToKilometersGUI\obj\Debug\excercise 1 MilesToKilometersGUI.pdb

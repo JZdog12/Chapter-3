@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excersice 3 CarRentalInteractiveGUI", "Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI.csproj", "{44DA4BF9-0DAA-49BB-8DB4-5A0272102DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DA4BF9-0DAA-49BB-8DB4-5A0272102DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DA4BF9-0DAA-49BB-8DB4-5A0272102DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DA4BF9-0DAA-49BB-8DB4-5A0272102DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DA4BF9-0DAA-49BB-8DB4-5A0272102DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691CCC64-52DB-41A4-B8ED-1564DC8D9719}
+	EndGlobalSection
+EndGlobal

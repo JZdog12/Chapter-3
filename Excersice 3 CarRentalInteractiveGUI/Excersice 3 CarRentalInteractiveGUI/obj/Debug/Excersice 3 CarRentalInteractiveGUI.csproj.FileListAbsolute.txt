@@ -1,0 +1,10 @@
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\bin\Debug\Excersice 3 CarRentalInteractiveGUI.exe.config
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\bin\Debug\Excersice 3 CarRentalInteractiveGUI.exe
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\bin\Debug\Excersice 3 CarRentalInteractiveGUI.pdb
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice 3 CarRentalInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice_3_CarRentalInteractiveGUI.Form1.resources
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice_3_CarRentalInteractiveGUI.Properties.Resources.resources
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice 3 CarRentalInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice 3 CarRentalInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice 3 CarRentalInteractiveGUI.exe
+C:\Users\jz159156\Desktop\C#\Excersice 3 CarRentalInteractiveGUI\Excersice 3 CarRentalInteractiveGUI\obj\Debug\Excersice 3 CarRentalInteractiveGUI.pdb
